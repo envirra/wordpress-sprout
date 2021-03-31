@@ -1,0 +1,9 @@
+<var>
+    <theme-name>NEUE</theme-name>
+    <theme-slug>neue</theme-slug>
+    <wp-version>5.5</wp-version>
+    <php-version>7.0</php-version>
+    <minimum-image-size>790 x 439</minimum-image-size>
+    <recommended-image-size>1070 x 596</recommended-image-size>
+    <post-image-size>370 x 206</post-image-size>
+</var>
