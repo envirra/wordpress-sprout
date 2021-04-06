@@ -7,7 +7,7 @@ After you've successfully uploaded and activated ${var.theme-name} theme, it is 
 To have the same design as demo site, You should import a customizer preset. Please follow these steps.
 
 1. Install the <a href="https://wordpress.org/plugins/customizer-export-import/" target="_blank">Customizer Export/Import plugin</a>.
-2. Download a customizer file from <a href="https://envirra.github.io/wordpress-neue/demo-classic/customizer.dat" target="_blank">this link</a>.
+2. Download a customizer file from <a href="https://github.com/envirra/wordpress-sprout/raw/main/demo-classic/customizer.dat" target="_blank">this link</a>.
 3. Navigate to `Appearance > Customizer > Export/Import`.
 4. In case you have an existing customizer of third-party plugins, It would be great to backup it first. Click the `Export` button to download a backup file.
 5. To start importing, click `Choose file` button. Select the downloaded file and click `Import`.
